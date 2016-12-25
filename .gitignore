@@ -3,6 +3,7 @@
 .classpath
 *.log
 */target/*
+target/*
 */logs/*
 *.swp
 .DS_Store
